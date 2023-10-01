@@ -16,7 +16,7 @@ Welcome to the Tic Tac Toe AI project! This project utilizes the Minimax algorit
 ### Installation
 1. Clone this repository:
    ```sh
-   git clone [[GitHub Repository URL]](https://github.com/kedyjs/tic-tac-toe-ai)
+   git clone https://github.com/kedyjs/tic-tac-toe-ai
    ```
 2. Navigate to the project directory:
     ```sh
