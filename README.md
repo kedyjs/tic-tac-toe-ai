@@ -18,14 +18,6 @@ Welcome to the Tic Tac Toe AI project! This project utilizes the Minimax algorit
    ```sh
    git clone https://github.com/kedyjs/tic-tac-toe-ai
    ```
-2. Navigate to the project directory:
-    ```sh
-   cd tic-tac-toe-ai
-    ```
-3. Run the game:
-   ```sh
-   python tic_tac_toe.py
-   ```
 # 🎮 How to Play
 
 - The game is played on a grid that's 3 squares by 3 squares.
