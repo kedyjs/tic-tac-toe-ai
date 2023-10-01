@@ -20,11 +20,11 @@ Welcome to the Tic Tac Toe AI project! This project utilizes the Minimax algorit
    ```
 2. Navigate to the project directory:
     ```sh
-cd tic-tac-toe-ai
+   cd tic-tac-toe-ai
     ```
 3. Run the game:
    ```sh
-python tic_tac_toe.py
+   python tic_tac_toe.py
    ```
 # 🎮 How to Play
 
